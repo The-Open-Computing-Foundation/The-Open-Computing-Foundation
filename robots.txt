@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://the-open-computing-foundation.github.io/The-Open-Computing-Foundation/sitemap.xml
